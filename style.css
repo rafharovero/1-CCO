@@ -1,0 +1,23 @@
+
+
+        body {
+            font-family: monospace;
+            font-size: 50px;
+        }
+
+        .titulo {
+            color: aqua; font-family: 'Courier New', Courier, monospace;font-weight: 300;
+        }
+
+        .subtitulo {font-family: 'Courier New', Courier, monospace;
+            font-size: 15px;
+
+        }
+
+        .paragrafo {
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .destaque {
+            color:red;
+        }
