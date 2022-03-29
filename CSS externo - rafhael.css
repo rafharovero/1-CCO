@@ -1,0 +1,27 @@
+.fundo{
+    background-color:#ff00ff ;
+    width: 800px;
+    height: 800px;
+}
+.filho {
+    background-color:#097575 ;
+    width: 70%;
+    height: 50%;
+}
+.paragrafo {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+    .segundo{
+        width: 60%;
+        height: 40vh;
+        background-color: rgb(173, 216, 230);
+    }
+    .filhosegundo{
+        width: 45vw;
+        height: 50%;
+        background-color: rgb(116, 49, 49);
+    }
